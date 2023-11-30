@@ -1,0 +1,4 @@
+name: Jecon-Leaderboard
+version: '${version}'
+main: moe.nmkmn.jecon_leaderboard.JeconLeaderboard
+api-version: '1.20'
